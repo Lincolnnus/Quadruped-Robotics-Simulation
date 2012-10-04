@@ -1,0 +1,10 @@
+1.Run DSS Command Prompt
+Navigate to the Quadruped Folder
+then enter "run.cmd"
+2.Wait until finishing building
+3.Run DSS Manifest Editor
+4.Find QuadrupedRobot Simulation Service
+5.Run Manifest
+6.Copy all the files in Quadruped\Resources\3Dmodel to 
+Microsoft Robotics Dev Studio 2008 R3\Store\media
+7.Copy the Trajectory Folder to C:\

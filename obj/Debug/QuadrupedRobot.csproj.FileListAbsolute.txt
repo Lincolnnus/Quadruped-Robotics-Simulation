@@ -1,0 +1,20 @@
+C:\Documents and Settings\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\run.cmd
+C:\Documents and Settings\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\SimulatedLynxL6Arm.Y2007.M10.dll
+C:\Documents and Settings\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\SimulatedLynxL6Arm.Y2007.M10.pdb
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.ControlPanel.resources
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\ProMRDS.Simulation.LynxL6Arm.Properties.Resources.resources
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.Trajectory.resources
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\SimulatedLynxL6Arm.Y2007.M10.dll
+C:\Documents and Settings\Lincoln\Desktop\Quadruped\obj\Debug\SimulatedLynxL6Arm.Y2007.M10.pdb
+C:\Users\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\run.cmd
+C:\Users\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\SimulatedLynxL6Arm.Y2007.M10.dll
+C:\Users\Lincoln\Microsoft Robotics Dev Studio 2008 R3\bin\SimulatedLynxL6Arm.Y2007.M10.pdb
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\ResolveAssemblyReference.cache
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.ControlPanel.resources
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\ProMRDS.Simulation.LynxL6Arm.Properties.Resources.resources
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.Trajectory.resources
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\QuadrupedRobot.csproj.GenerateResource.Cache
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\SimulatedLynxL6Arm.Y2007.M10.dll
+c:\Users\Lincoln\Desktop\Quadruped\obj\Debug\SimulatedLynxL6Arm.Y2007.M10.pdb
